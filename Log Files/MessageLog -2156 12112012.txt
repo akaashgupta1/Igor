@@ -1,0 +1,8 @@
+Nov 12, 2012 9:57:50 PM logAndException.Log toLog
+INFO: update 1 andeep #NORMAL
+Nov 12, 2012 9:57:50 PM logAndException.Log toLog
+INFO: Event Updated Successfully.
+Nov 12, 2012 9:57:57 PM logAndException.Log toLog
+INFO: undo
+Nov 12, 2012 9:57:57 PM logAndException.Log toLog
+INFO: Undo: Update 'sandeep' to 'andeep'
